@@ -93,7 +93,6 @@ L'objectif principal est de comparer les performances de plusieurs modèles bas�
 ### Prérequis
 - Python 3.7+
 - Jupyter Notebook
-- Librairies nécessaires (voir `requirements.txt`).
 
 ### Étapes
 1. Clonez ce dépôt :
